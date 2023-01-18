@@ -1,0 +1,13 @@
+@import url(./header.css);
+
+:root{
+    ---cor-de-fundo:  #EBECEE;
+    --laranja:#EB9B00;
+    --azul: #002F52;
+    --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+}
+body{
+    font-family: "poppins";
+    font-weight: 400;
+    background-color: var(---cor-de-fundo);
+}
